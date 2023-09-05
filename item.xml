@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<mp:metadata xmlns:mp="http://example.org/MyProject/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xsi:schemaLocation="http://example.org/MyProject/ http://example.org/MyProject/schema.xsd">
+<dc:title>Coca Cola, marchio pubblicitario della bibita Coca Cola</dc:title>
+<dc:creator xsi:type="mp:viaf" mp:ref="http://viaf.org/viaf/13116963">Mario Schifano</dc:creator>
+<dc:subject>marchio pubblicitario della bibita Coca Cola, Coca Cola</dc:subject>
+<dc:description>il dipinto presenta un frammento della nota scritta pubblicitaria coca cola in bianco su sfondo rosso</dc:description>
+<dc:date xsi:type="created">1972</dc:date>
+<dc:type>dipinto</dc:type>
+<dcterms:extent>36 cm altezza con cornice, 40 cm larghezza con cornice</dcterms:extent>
+<dc:format>Tecnica mista su tela</dc:format>
+<dc:identifier>0700262874</dc:identifier>
+<dc:source>https://catalogo.beniculturali.it/detail/HistoricOrArtisticProperty0700262874</dc:source>
+<dc:source>https://w3id.org/arco/resource/CatalogueRecordOA/0700262874</dc:source>
+<dc:coverage xsi:type="mp:geonames" mp:ref="3167092">Sassello (SV)</dc:coverage>
+<dc:rights>proprietà Ente pubblico territoriale</dc:rights>
+
+</mp:metadata>
