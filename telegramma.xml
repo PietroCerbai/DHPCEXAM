@@ -23,9 +23,20 @@
          </availability>
         </publicationStmt>
          <sourceDesc>
-            <p>Trascrizione del telegramma edito nell'articolo "Ileana Sonnabend e Mario Schifano: un epistolario (1962-1963)" da Giorgia Gastaldon</p>
+            <bibl>
+               <title>Ileana Sonnabend e Mario Schifano: un epistolario (1962-1963)</title>
+               <author>Giorgia Gastaldon</author>
+               <publisher>Storia dell'arte</publisher>
+               <pubPlace>Roma</pubPlace>
+               <date>Gennaio 2015</date>
+            </bibl>
          </sourceDesc>
        </fileDesc>
+       <profileDesc>
+         <langUsage>
+            <language ident="en">English</language>
+         </langUsage>
+      </profileDesc>
       </teiHeader>
       <text>
        <front>
