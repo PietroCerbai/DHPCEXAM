@@ -3,7 +3,7 @@
       <fileDesc>
          <titleStmt>
             <title>Telegramma di Ileana Sonnabend a Mario Schifano</title>
-            <author ref="#IS">Ileana Sonnabend</author>
+            <author xml:id="IS" ref="http://viaf.org/viaf/42645632">Ileana Sonnabend</author>
                <respStmt xml:id="GG">
                   <resp>editor</resp>
                   <name>Giorgia Gastaldon</name>
