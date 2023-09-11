@@ -15,13 +15,12 @@
          </titleStmt>
          <publicationStmt>
             <publisher>Università degli Studi di Bologna, Dipartimento di Arti Visive</publisher>
-               <address>
-                  <addrLine>Bologna</addrLine>
-               </address>
-         <availability>
-            <p>Questo testo è liberamente consultabile e scaricabile</p>
-         </availability>
-        </publicationStmt>
+               <pubPlace>Bologna</pubPlace>
+            <availability>
+               <p>Questo testo è liberamente consultabile e scaricabile</p>
+               <date>2023</date>
+            </availability>
+         </publicationStmt>
          <sourceDesc>
             <bibl>
                <title>Ileana Sonnabend e Mario Schifano: un epistolario (1962-1963)</title>
@@ -32,6 +31,21 @@
             </bibl>
          </sourceDesc>
        </fileDesc>
+      <profileDesc>
+         <particDesc>
+				<listPerson>
+					<person xml:id="IS" ref="http://viaf.org/viaf/42645632">
+						<persName>Ileana Sonnabend</persName>
+               </person>
+               <person xml:id="MS" ref="http://viaf.org/viaf/13116963">
+						<persName>Mario Schifano</persName>
+               </person>
+               <person xml:id="LC" ref="http://viaf.org/viaf/34561693">
+						<persName>Leo Castelli</persName>
+               </person>
+            </listPerson>
+			</particDesc>
+		</profileDesc>
       </teiHeader>
       <text xml:lang="eng">
        <front>
@@ -47,7 +61,7 @@
             <head>Telegramma di Ileana Sonnabend a Mario Schifano</head>
             <p n="1">
                <address>
-                  <name type="person" ref="http://viaf.org/viaf/13116963">Mario Schifano</name>
+                  <persName ref="#MS">Mario Schifano</persName>
                   <street>25 Passeggiata di Ripetta</street> 
                   <settlement>Roma</settlement>
                </address>
@@ -72,12 +86,9 @@
                <p n="3">URGENT SHOW OPENS 
                 <date when="1962-10-31">END OCTOBER</date> 
                 PLEASE CONFIRM TO ME MY CABLE CARE
-                <name type="person">CASTELLI</name>  
+                <persName ref="#LC">CASTELLI</persName>  
                 CORDIALLY 
-                <choice>
-                  <abbr>ILEANA.</abbr>
-                  <expan>Ileana Sonnabend</expan>
-               </choice>
+                  <persName ref="#IS">ILEANA.</persName>
              </p>
          </div>
       </body>
